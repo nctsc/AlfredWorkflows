@@ -10,3 +10,8 @@ eg:
 &emsp; unixtime 2023-02-07  
 &emsp; unixtime 2023-02-07 11:37:23  
 
+# md5
+计算字符串MD5值  
+eg:  
+&emsp; md5 admin  
+
