@@ -15,3 +15,8 @@ eg:
 eg:  
 &emsp; md5 admin  
 
+# uuid
+随机生成一个UUID字符串  
+eg:  
+&emsp; uuid  
+
